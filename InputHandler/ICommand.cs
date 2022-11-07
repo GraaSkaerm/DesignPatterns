@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace DesignPatterns
 {
-    internal class InputHandler
+    internal interface ICommand
     {
+        public void Execute();
     }
 }
