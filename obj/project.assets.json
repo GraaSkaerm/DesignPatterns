@@ -1,30 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {
-      "CreationalPatterns/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "compile": {
-          "bin/placeholder/CreationalPatterns.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/CreationalPatterns.dll": {}
-        }
-      }
-    }
+    "net6.0": {}
   },
-  "libraries": {
-    "CreationalPatterns/1.0.0": {
-      "type": "project",
-      "path": "../CreationalPatterns/CreationalPatterns.csproj",
-      "msbuildProject": "../CreationalPatterns/CreationalPatterns.csproj"
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
-    "net6.0": [
-      "CreationalPatterns >= 1.0.0"
-    ]
+    "net6.0": []
   },
   "packageFolders": {
     "C:\\Users\\mikke\\.nuget\\packages\\": {}
@@ -52,11 +33,7 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {
-            "C:\\Users\\mikke\\OneDrive\\Skrivebord\\DesignPatterns\\CreationalPatterns\\CreationalPatterns.csproj": {
-              "projectPath": "C:\\Users\\mikke\\OneDrive\\Skrivebord\\DesignPatterns\\CreationalPatterns\\CreationalPatterns.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {
