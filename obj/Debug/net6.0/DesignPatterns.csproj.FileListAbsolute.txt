@@ -13,3 +13,6 @@ C:\Users\mikke\OneDrive\Skrivebord\DesignPatterns\DesignPatterns\obj\Debug\net6.
 C:\Users\mikke\OneDrive\Skrivebord\DesignPatterns\DesignPatterns\obj\Debug\net6.0\DesignPatterns.pdb
 C:\Users\mikke\OneDrive\Skrivebord\DesignPatterns\DesignPatterns\obj\Debug\net6.0\DesignPatterns.genruntimeconfig.cache
 C:\Users\mikke\OneDrive\Skrivebord\DesignPatterns\DesignPatterns\obj\Debug\net6.0\ref\DesignPatterns.dll
+C:\Users\mikke\OneDrive\Skrivebord\DesignPatterns\DesignPatterns\bin\Debug\net6.0\CreationalPatterns.dll
+C:\Users\mikke\OneDrive\Skrivebord\DesignPatterns\DesignPatterns\bin\Debug\net6.0\CreationalPatterns.pdb
+C:\Users\mikke\OneDrive\Skrivebord\DesignPatterns\DesignPatterns\obj\Debug\net6.0\DesignPatterns.csproj.CopyComplete

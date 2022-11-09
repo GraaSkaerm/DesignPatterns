@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v6.0": {
       "DesignPatterns/1.0.0": {
+        "dependencies": {
+          "CreationalPatterns": "1.0.0"
+        },
         "runtime": {
           "DesignPatterns.dll": {}
+        }
+      },
+      "CreationalPatterns/1.0.0": {
+        "runtime": {
+          "CreationalPatterns.dll": {}
         }
       }
     }
   },
   "libraries": {
     "DesignPatterns/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CreationalPatterns/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

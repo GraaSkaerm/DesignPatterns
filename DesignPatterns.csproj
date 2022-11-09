@@ -7,4 +7,12 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="InputHandler\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CreationalPatterns\CreationalPatterns.csproj" />
+  </ItemGroup>
+
 </Project>
